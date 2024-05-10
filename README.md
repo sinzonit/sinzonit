@@ -10,7 +10,7 @@
 <div>
 <img src="https://c.tenor.com/OHbP43mQJh4AAAAC/free-natsuya.gifv" align="right" width="400" >
 <li>
-<b>Name:</b> Sinz</li>
+<b>Name:</b> Hieu (You can call me Sinz)</li>
 <li>
 <b>Favourite Anime:</b> 僕のヒーローアカデミア (My Hero Academia)
 </li>
