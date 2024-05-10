@@ -12,7 +12,7 @@
 <li>
 <b>Name:</b> Hieu (You can call me Sinz)</li>
 <li>
-<b>Favourite Anime:</b> 僕のヒーローアカデミア (My Hero Academia)
+<b>Favourite Anime:</b> ヴィンランド・サガ (Vinland Saga)
 </li>
 <li>
 <b>Loves:</b> アーニャ・フォージャー (Anya Forger) (●´ω｀●), Fps games 🎮, Gym 🏋️‍
@@ -21,7 +21,10 @@
 <b>Gender:</b> Male.
 </li>
 <li>
-<b>Hobbys:</b>  Anime 🐉
+<b>Hobbys:</b>  Anime, Music, Badminton, Apex Legend 🐉
+</li>
+<li>
+<b>Language:</b>  Korean, Vietnamese, English
 </li>
 <li>
 <b>Favourite song:</b> Another Love by Tom Odell.  <img src ="https://upload.wikimedia.org/wikipedia/commons/7/74/Spotify_App_Logo.svg" width="25px"/>
